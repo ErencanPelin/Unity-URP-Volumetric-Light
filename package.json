@@ -9,6 +9,9 @@
     "volumetric",
     "fog"
   ],
+  "dependencies": {
+    "com.unity.render-pipelines.universal": "17.0.1"
+  },
   "author": {
     "name": "Cristian Qiu F\u00e9lez",
     "email": "cristianqiufelez@gmail.com",
